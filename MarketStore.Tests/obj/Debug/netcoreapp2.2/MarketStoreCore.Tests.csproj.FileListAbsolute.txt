@@ -1,0 +1,14 @@
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Tests.deps.json
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Tests.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Tests.pdb
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Common.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Common.pdb
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.csprojAssemblyReference.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.AssemblyInfoInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.AssemblyInfo.cs
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.csproj.CopyComplete
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCore.Tests.pdb
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Tests.runtimeconfig.json
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCore.Tests.runtimeconfig.dev.json

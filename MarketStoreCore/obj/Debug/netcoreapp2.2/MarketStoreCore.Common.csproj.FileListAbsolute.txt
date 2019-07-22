@@ -1,0 +1,9 @@
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\bin\Debug\netcoreapp2.2\MarketStoreCore.Common.deps.json
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\bin\Debug\netcoreapp2.2\MarketStoreCore.Common.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.csprojAssemblyReference.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.AssemblyInfoInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.AssemblyInfo.cs
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\bin\Debug\netcoreapp2.2\MarketStoreCore.Common.pdb
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStoreCore\obj\Debug\netcoreapp2.2\MarketStoreCore.Common.pdb

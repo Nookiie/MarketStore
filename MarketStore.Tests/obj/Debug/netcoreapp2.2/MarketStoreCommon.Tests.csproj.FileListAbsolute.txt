@@ -1,0 +1,5 @@
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCommon.Tests.deps.json
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\bin\Debug\netcoreapp2.2\MarketStoreCommon.Tests.dll
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCommon.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCommon.Tests.AssemblyInfoInputs.cache
+C:\Users\Nookie\source\repos\MarketStoreCore\MarketStore.Tests\obj\Debug\netcoreapp2.2\MarketStoreCommon.Tests.AssemblyInfo.cs

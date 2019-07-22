@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "f888a9e8e0ac2b59258fe0060b5643c1f1b5d7d6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MarketStoreCore.Common/1.0.0": {
+        "dependencies": {
+          "StyleCop": "6.1.0",
+          "StyleCopPlus.MSBuild": "4.7.49.5"
+        },
+        "runtime": {
+          "MarketStoreCore.Common.dll": {}
+        }
+      },
+      "StyleCop/6.1.0": {
+        "runtime": {
+          "lib/net40/StyleCop.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.7038.1"
+          }
+        }
+      },
+      "StyleCop.MSBuild/4.7.49": {},
+      "StyleCopPlus.MSBuild/4.7.49.5": {
+        "dependencies": {
+          "StyleCop.MSBuild": "4.7.49"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketStoreCore.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TnF8o1R5ZRkFO1TO9ugtccEfrKoH5hRSFZXxSbZzRU27HQqwo7JLLgTXnpbvl44UyC9Jt8fPoLPnU5l6GsIhzg==",
+      "path": "stylecop/6.1.0",
+      "hashPath": "stylecop.6.1.0.nupkg.sha512"
+    },
+    "StyleCop.MSBuild/4.7.49": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8dGQFu8rbUKhjdgG3/6K8oPZ/MhFv88pl01VkG6kQSPZMQzgXTXUXfog8hSe2tySDgt7SyUpR1QlGGqbGujmRA==",
+      "path": "stylecop.msbuild/4.7.49",
+      "hashPath": "stylecop.msbuild.4.7.49.nupkg.sha512"
+    },
+    "StyleCopPlus.MSBuild/4.7.49.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o/ZqA7vupCwc+urvtQdEgTJwu6SftXMUoQuqeLK2gj3qBfE3y8Sz0cTgWZHpeWW3KmuOWNq8LMN+HRZH8q42cA==",
+      "path": "stylecopplus.msbuild/4.7.49.5",
+      "hashPath": "stylecopplus.msbuild.4.7.49.5.nupkg.sha512"
+    }
+  }
+}
